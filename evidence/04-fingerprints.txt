@@ -1,0 +1,8 @@
+pub   rsa4096 2026-11-20 [SCE] [expires: 2027-11-20]
+      D84F 02E4 AC1F 57CA 2D5C  DF27 A910 A02A 09E6 D99A
+uid           [ultimate] LabOps Release <labops-release@labops.example>
+
+pub   rsa4096 2026-11-20 [SCE] [expires: 2027-11-20]
+      1C6A CCAC D337 8560 72CD  5965 8B4E A368 C2F5 A2D2
+uid           [ultimate] LabOps Release <labops-release@labops.example>
+
